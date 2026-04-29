@@ -23,7 +23,7 @@ I'm open to internships, junior roles, collaboration and enjoy working in team e
 
 ---
 
-### Fun Facts:
+### A Bit About Me 
 - 🎨 I enjoy contemporary art  
 - 🎧 I listen to indie rock and R&B  
 - 🛠️ I like building and experimenting with ideas  
