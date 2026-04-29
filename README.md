@@ -14,7 +14,8 @@ I have several projects in progress, with many more on the way. I'm always explo
 
 I'm open to collaboration and enjoy working in team environments.
 
-### Fun Facts
+
+### Fun Facts:
 - I enjoy contemporary art
 - I listen to indie rock and R&B
 - I like building and experimenting with new ideas
