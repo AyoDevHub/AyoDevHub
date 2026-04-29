@@ -1,4 +1,4 @@
-Hi there 👋
+# Hi there 👋
 
 I'm **Ayomide**, a Python backend developer based in Nigeria.
 
@@ -6,20 +6,28 @@ I build practical **backend systems and APIs** using Python.
 
 I enjoy turning ideas into real, working products that solve problems.
 
-My core stack is Python, and I primarily work with Django and Django REST Framework to build robust backend systems and APIs.
-
 I also rely on tools like Notion and Claude to organize ideas, plan projects, and stay productive.
 
 I have several projects in progress, with many more on the way. I'm always exploring new ideas and improving my craft.
 
-I'm open to collaboration and enjoy working in team environments.
+I'm open to internships, junior roles, collaboration and enjoy working in team environments.
 
+---
+
+### Tools and Tech
+
+- Python 
+- Django, Django REST Framework  
+- Postman, Notion, Git 
+- SQLite, PostgreSQL
+
+---
 
 ### Fun Facts:
-- I enjoy contemporary art
-- I listen to indie rock and R&B
-- I like building and experimenting with new ideas
-- Hobbies: music, reading, and creating things
+- 🎨 I enjoy contemporary art  
+- 🎧 I listen to indie rock and R&B  
+- 🛠️ I like building and experimenting with ideas  
+- 📚 Hobbies: music, reading, and creating things 
 <!--
 **AyoDevHub/AyoDevHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
