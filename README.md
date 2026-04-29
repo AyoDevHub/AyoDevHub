@@ -1,4 +1,4 @@
-# Hi there 👋
+Hi there 👋
 
 I'm **Ayomide**, a Python backend developer based in Nigeria.
 
